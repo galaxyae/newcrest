@@ -27045,7 +27045,7 @@ a img.aligncenter {
 }
 
 a.logo img {
-	width: 60px;
+	width: 100px;
 }
 
 .page_topline {
@@ -27358,7 +27358,7 @@ a.logo img {
 @media (max-width: 1200px) {
 	a.logo img {
 		max-height: 50px;
-		width: 45px;
+		width: 60px;
 	}
 }
 
